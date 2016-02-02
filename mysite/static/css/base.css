@@ -1,3 +1,10 @@
 a {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 255, 128);
+    background-color: rgb(255,0,128);
+}
+a:hover{
+	color: rgb(255,255,196);
+}
+form {
+	position: relative;
 }
